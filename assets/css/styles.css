@@ -440,8 +440,6 @@
                 height: 320px;
                 width: 65%;
                 margin-right: 30px;
-
-
             }
 
             .pro2 {
@@ -625,9 +623,9 @@
 
             .pro {
                 display: flex;
-                height: 225px;
-                width: 60%;
-                border-radius: 10%;
+                height: 260px;
+                width: 70%;
+                border-radius: 50%;
                 margin-top: 50px;
                 margin-left: -190px;
                 margin-right: 60px;
@@ -635,28 +633,29 @@
             }
 
             .pro2 {
-                height: 200px;
-                border-radius: 10%;
-                width: 85%;
-                margin-top: 13px;
+                height: 90%;
+                border-radius: 50%;
+                width: 90%;
+                margin-top: 5%;
+                margin-left: 5%;
             }
 
         
 
 
             .pro2 img {
-                height: 190px;
+                height: 90%;
                 width: 90%;
                 margin-left: 10px;
-                border-radius: 30%;
+                border-radius: 50%;
                 margin-right: 10px;
                 margin-top:8px;
             }
 
             .name p {
-                width: 250px;
+                width: 300px;
                 font-size: 10px;
-                margin-top: 310px;
+                margin-top: 350px;
                 margin-left: -20px;
                 margin-bottom: 25px;
             }
